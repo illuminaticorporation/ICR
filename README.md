@@ -4,7 +4,7 @@
 
 ##Technical Specs:
 
-QRK 8 Random Algorythm CPU Proof of Work
+Quark 8 Random Algorythm CPU Proof of Work
 
 7:15 Block Targets
 
