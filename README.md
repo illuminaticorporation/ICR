@@ -16,8 +16,6 @@ Minimum Block Reward of 925 coins per block provides 30 additional years of mini
 
 50 Billion Coins Maximum
 
-2% Premined in Blocks #1-20
-
 Default RPC Port: 48885
 
 Default P2P Port: 58885
@@ -31,8 +29,6 @@ Addresses Begin With "i" / Public Key 102
 ##Mining Breakdown 
 
 **Year 1:**
-
-Blocks 1-20 = 2 billion coins for grants and holding by the corporation
 
 Blocks until first halving: ~23 billion (1,277,777 per block)
 
