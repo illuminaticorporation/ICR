@@ -1,4 +1,4 @@
-#Illuminati Credits [ICR]
+#Illuminati Credit [ICR]
 
 --------------------------------------------------
 
